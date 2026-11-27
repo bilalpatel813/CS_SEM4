@@ -4,5 +4,5 @@ function addition(a,b){
 function subtraction(a,b){
     return a - b
 }
-console.log("Bilal")
+console.log("Ismail Yusuf College")
 module.exports={addition,subtraction}
