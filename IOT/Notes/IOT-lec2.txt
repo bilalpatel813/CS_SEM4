@@ -1,0 +1,26 @@
+IOT : Internet Of Thing
+
+- Components of IOT :
+1. sensor : detects environment condition
+2. controller: process sensor info and make decision 
+3. network: transfer reading and commands
+4. cloud/app: displays or store readings and command
+5. actuator: perform a physical actions
+
+- Characteristics of IOT:
+ 
+1. Connectivity
+2. sensing
+3. intelligence
+4. Automation
+5. scalability
+6. Heterogeneity
+
+- Scopes & Applications of IOT: 
+1. Area
+2. Healthcare
+3. Agriculture
+4. Transportation
+5. Smart Cities
+6. Industry
+7. Smart Homes 

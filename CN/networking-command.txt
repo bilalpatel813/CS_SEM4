@@ -1,0 +1,14 @@
+Practical No. 1
+AIM: Execute and observe the output of : 
+ping
+tracert
+netstat -an
+arp -a
+nslookup anywebsite
+hostname
+pathping
+
+
+Practical no. 2 
+AIM: create a network with two PCs connected using a crossover cable using CisCo Packet Tracer
+
